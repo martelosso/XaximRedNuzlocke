@@ -17,3 +17,25 @@
 Bonus points:
 
 Cláusula Shiny: se o jogador encontrar um Pokemon shiny ele poderá ignorar as regras e captura-lo.
+
+
+
+Level cap dos treinadores:
+
+Pokémon FireRed/LeafGreen
+
+Gym 1: Lv 14
+Gym 2: Lv 21
+Gym 3: Lv 24
+Gym 4: Lv 29
+Gym 5: Lv 43
+Gym 6: Lv 43
+Gym 7: Lv 47
+Gym 8: Lv 50
+
+Elite Four 1: Lv 54
+Elite Four 2: Lv 56
+Elite Four 3: Lv 58
+Elite Four 4: Lv 60
+
+Champion: Lv 63
