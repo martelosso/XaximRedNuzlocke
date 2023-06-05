@@ -2,7 +2,7 @@
 
 1. Qualquer Pokemon que desmaiar é morto, e portanto, deverá ser colocado em uma caixa "cemitério" no computador.
 
-2. Você poderá capturar apenas o primeiro Pokemon "inédito" (ver 4.) em cada rota/área. Se o Pokemon fugir, a oportunidade de captura daquela rota é perdida.
+2. Você poderá capturar apenas o primeiro Pokemon "inédito" (ver 4.) em cada rota/área. Se o Pokemon fugir ou morrer, a oportunidade de captura daquela rota é perdida.
 
 3. O jogador deve dar nome para todos os Pokemons capturados.
 
