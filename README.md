@@ -6,7 +6,7 @@
 
 Este repositório serve como um guia para novos jogadores que estejam iniciando o desafio XaximRedNuzlocke: um gameplay com base no jogo _Pokemon FireRed_ seguindos regras específicas que chamamos de _nuzlocke_, que deixam o jogo mais desafiador e menos interessante para o público infantil. O objetivo final do desafio é derrotar o campeão do jogo seguindo as regras aqui descritas. Adicionalmente, a presente página oferece informações de suporte para quem já iniciou o desafio e precisa consultar informações adicionais. 
 
-A ROM utilizada se encontra neste diretório, nomeada PokemonXaximRed.gba, não há restrições quando ao device ou emulador que o player utilizará. O emulador _Pizza Boy_ para _android_ e _Visual Boy Advance_ para _Windows_ ou _Linux_ são recomendações com base no que a maioria dos jogadores estão utilizando com bons resultados.
+A ROM utilizada se encontra neste diretório, nomeada PokemonXaximRed.gba, esta ROM é modificada para que as evoluções que requerem _trade_ para acontecer sejam modificadas para o usual (por nível), a lista de mudanças pode ser consultada [neste link](https://pokehacks.dabomstew.com/randomizer/changedevos.php#frlg). Não há restrições quanto ao device ou emulador que o player poderá utilizar, contudo os emuladores _Pizza Boy_ para _android_ e _Visual Boy Advance_ para _Windows_ ou _Linux_ são recomendações com base no que a maioria dos jogadores estão utilizando com bons resultados.
 
 ## Regras
 
