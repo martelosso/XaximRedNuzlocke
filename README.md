@@ -1,10 +1,16 @@
 # XaximRedNuzlocke
 
-<img src='https://github.com/marthollo/XaximRedNuzlocke/assets/47225177/206c53f5-daeb-49c5-b8d1-3ac3108da49e' width=250>
+<p align="center">
+  <img src='https://github.com/marthollo/XaximRedNuzlocke/assets/47225177/206c53f5-daeb-49c5-b8d1-3ac3108da49e' width=250>
+</p>
+
+Este repositório serve como um guia para novos jogadores que estejam iniciando o desafio XaximRedNuzlocke: um gameplay com base no jogo _Pokemon FireRed_ seguindos regras específicas que chamamos de _nuzlocke_, que deixam o jogo mais desafiador e menos interessante para o público infantil. O objetivo final do desafio é derrotar o campeão do jogo seguindo as regras aqui descritas. Adicionalmente, a presente página oferece informações de suporte para quem já iniciou o desafio e precisa consultar informações adicionais. 
+
+A ROM utilizada se encontra neste diretório, nomeada PokemonXaximRed.gba, não há restrições quando ao device ou emulador que o player utilizará. O emulador _Pizza Boy_ para _android_ e _Visual Boy Advance_ para _Windows_ ou _Linux_ são recomendações com base no que a maioria dos jogadores estão utilizando com bons resultados.
 
 ## Regras
 
-1. Qualquer Pokemon que desmaiar é morto, e portanto, deverá ser colocado em uma caixa "cemitério" no computador.
+1. Qualquer Pokemon que "desmaiar" é considerado perdido, e portanto, deverá ser colocado em uma caixa "cemitério" no computador.
 
 2. Você poderá capturar apenas o primeiro Pokemon "inédito" (ver 4.) em cada rota/área. Se o Pokemon fugir ou morrer, a oportunidade de captura daquela rota é perdida.
 
@@ -12,11 +18,13 @@
 
 4. Duplicidades: se o primeiro Pokemon avistado numa área for um que o jogador já possui, ele deverá ignorar esse encontro e considerar o próximo Pokemon que ainda não foi pego.
 
-5. Se todos os pokemons do grupo ativo morrerrem, o jogo é considerado perdido, e deverá ser iniciado novamente.
+5. Se todos os pokemons do grupo ativo morrerrem, o jogo é considerado perdido, e deverá ser iniciado novamente desde o início.
 
 6. O jogador não poderá utilizar itens dentro da batalha (fora da batalha tá valendo).
 
-7. O jogador poderá utilizar nas batalhas contra líderes de ginásio apenas Pokemons que não ultrapassem o level do Pokemon mais forte do líder (ver Level cap dos treinadores).
+7. O jogador poderá utilizar nas batalhas contra líderes de ginásio apenas Pokemons que não ultrapassem o level do Pokemon mais forte do líder (ver Level cap dos treinadores), caso um de seus pokemons ultaprasse o nível do treinador, deve ser guardado no computador e apenas poderá ser utilizado novamente após a batalha.
+
+8. O jogo deverá ser jogado com a opção `BATTLE STYLE` selecionada para `SET` (ver **Bonus points**). 
 
 - **Bonus points**:
 
